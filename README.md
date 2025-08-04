@@ -28,7 +28,7 @@ ATM-bank-system/
 - Data is not saved — all info is in memory and resets on each run.
 - No login system (PIN/password) — could be added in future.
 - Great for beginner C++ practice.
-
-## 👨‍💻 Author
+  
+## ✍️ Author
 **Saif Emara**  
-GitHub: [@saif-emara](https://github.com/saif-emara)
+[GitHub](https://github.com/saif-emara) | [LinkedIn](https://www.linkedin.com/in/saif-emara-51a777377)
